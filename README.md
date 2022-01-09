@@ -1,7 +1,7 @@
 👋 hi, i’m austin!
 i am 21 and living in the US
 
-currently a college student learning web development!
+currently a college student learning frontend web development looking to learn backend as well!
 
 about me
   - learning HTML and CSS in school, also teaching myself Javascript and Python in my free time. 
