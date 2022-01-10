@@ -19,7 +19,7 @@
 </br>
 
 ## best way to reach me:
-[twitter](https://twitter.com/austinlolll) dm is preferred, however, i do have my email listed on my profile!
+[twitter](https://twitter.com/austinlolll) dm is preferred!
 
 ## projects
 
