@@ -13,7 +13,6 @@
 ## all of my socials
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-512.png" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" />][instagram]
 [<img align="left" alt="codeSTACKr | Twitch" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitch_colored_svg-256.png" />][twitch]
 
 </br>
