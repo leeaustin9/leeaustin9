@@ -3,13 +3,12 @@
 
 ## little bit about me
 
-  - learning HTML and CSS in school, also teaching myself Javascript and Python in my free time. 
+  - expert in html, css, and javascript (including javascript frameworks) 
+  - knowledgeable in python, java, sql, c#.
   - i like video games and watching movies. i also enjoy reading from time to time. 
   - absolutely obsessed with travelling and regularly go on roadtrips.
   - big time foodie and love trying new foods!
-  - HUGE anime watcher!
-  - i am regularly on twitter, although i do not post very often [@austinlolll](https://twitter.com/austinlolll)
-  - currently working on my own portfolio website and planning on creating a travel/food blog!
+  - follow me on twitter! [@austinlolll](https://twitter.com/austinlolll)
 ## all of my socials
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-512.png" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" />][linkedin]
